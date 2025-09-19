@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flashcard App - Saving Cards</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="add_card">Add</string>
+    <string name="edit_card">Edit</string>
+</resources>
