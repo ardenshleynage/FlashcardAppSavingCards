@@ -5,6 +5,7 @@
 A Flashcard app where users can create, save, and browse custom Q&A cards. Flashcards persist in a local database, navigation is possible with next/previous buttons, and progress is shown. After adding cards, a congratulation screen is displayed.
 
 ### App Walk-though
+![w1](https://github.com/user-attachments/assets/685637c5-a910-481d-9ebc-03dd425648e2) ![w2](https://github.com/user-attachments/assets/96244366-e803-4e0e-8f2c-13e30eb746d5)
 
 
 
